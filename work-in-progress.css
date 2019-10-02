@@ -1,0 +1,27 @@
+body{
+    background-image: url(work1.jpg);
+    background-size: cover;
+    background-repeat: initial
+}
+#middle{
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    font-style: oblique;
+    color: black);
+}
+#under{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pic img{ 
+    height: 250px;
+}
+#white{
+    color: white;
+}
+#contact{
+    color: white;
+    text-decoration: underline;
+}
